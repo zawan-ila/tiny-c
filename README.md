@@ -2,7 +2,7 @@
 ---
 # A C compiler in javascript
 ---
-tiny-c is a compiler for enough of C to compile 8-queens :blush: This implementation of [https://github.com/zawan-ila/tiny-c/blob/master/Tests/8queens.c](8 queens) is an example of what tiny-c can handle today. For more examples and features, check out the [https://github.com/zawan-ila/tiny-c/blob/master/Tests](Tests) directory 
+tiny-c is a compiler for enough of C to compile 8-queens :blush: This implementation of [8 queens](Tests/8queens.c) is an example of what tiny-c can handle today. For more examples and features, check out the [Tests](Tests) directory 
 
 ## Details
 
