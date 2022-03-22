@@ -4,11 +4,10 @@
 ---
 tiny-c is a compiler for enough of C to compile 8-queens :blush: This implementation of [8 queens](Tests/8queens.c) is an example of what tiny-c can handle today. For more examples and features, check out the [Tests](Tests) directory 
 
-## Details
+## Overview
 
 Generates x86-32 assembly in GAS syntax, which is then assembled and linked by GCC.
-
-# Features
+Has support for
 
 - Integers and Integer Arrays only
 - `~`, `-`, `!` Unary Ops
