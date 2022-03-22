@@ -4,7 +4,7 @@
 tiny-c is a compiler for a small subset of C :blush: This implementation of [8 queens](Tests/8queens.c) is an example of what tiny-c can handle today. For more examples and features, check out the [Tests](Tests) directory 
 
 ## Usage
-`node cc.js [<source file>]`
+`node cc.js <source file>`
 
 ## Features
 
