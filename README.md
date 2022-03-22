@@ -9,7 +9,6 @@ tiny-c is a compiler for a small subset of C :blush: This implementation of [8 q
 ## Features
 
 Generates x86-32 assembly in GAS syntax, which is then assembled and linked by GCC.  
-
 Has support for: 
 
 - Integers and Integer Arrays only
