@@ -6,7 +6,7 @@ tiny-c is a compiler for enough of C to compile 8-queens :blush: This implementa
 
 ## Overview
 
-Generates x86-32 assembly in GAS syntax, which is then assembled and linked by GCC.
+Generates x86-32 assembly in GAS syntax, which is then assembled and linked by GCC.<br>
 Has support for
 
 - Integers and Integer Arrays only
